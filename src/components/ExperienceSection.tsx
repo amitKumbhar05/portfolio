@@ -25,7 +25,7 @@ const educationData = [
 
 const experienceData = [
   {
-    title: "Trainee Software Engineer",
+    title: "AI Engineer",
     company: "Pradisys Technologies",
     duration: "March 2025 - Present",
     description: "Working on AI and backend."
